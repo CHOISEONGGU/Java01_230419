@@ -108,7 +108,7 @@ public class Solution03 {
         System.out.println(MessageFormat.format("my name is {0}", name));
         // 값이 2개 이상일 때
         double height = 178.5;
-        String name = "Jung";
-        System.out.println(MessageFormat.format("my name is {0} and height is {1}", name, height));
+        String name2 = "Jung";
+        System.out.println(MessageFormat.format("my name is {0} and height is {1}", name2, height));
     }
 }
